@@ -1,5 +1,7 @@
 ## Newton School Assignment-Text
 
+## To Run on Local System add Node Modules files to the both directories
+
 ## 1. Understand the Original Code:
 Familiarize with the original app inside the Context-API folder. This app uses the React Context API to manage state and includes Cypress test cases.
 
