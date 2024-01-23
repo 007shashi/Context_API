@@ -1,5 +1,3 @@
-## Newton School Assignment-Text
-
 ## To Run on Local System add Node Modules files to the both directories
 
 ## 1. Understand the Original Code:
